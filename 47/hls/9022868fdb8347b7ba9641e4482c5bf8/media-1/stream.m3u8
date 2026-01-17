@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:16
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:16.016000,
+https://cdn.jsdelivr.net/gh/91bg0003/ut@8f4e6350cac86f13f9c63b70084df4aa3694595f/47/hls/9022868fdb8347b7ba9641e4482c5bf8/media-1/segment-0.ts.png
+#EXTINF:16.016000,
+https://cdn.jsdelivr.net/gh/91bg0002/ut@1e048e4bc20a9b578c341993d9f88f7ffa44915f/47/hls/9022868fdb8347b7ba9641e4482c5bf8/media-1/segment-1.ts.png
+#EXTINF:15.974292,
+https://cdn.jsdelivr.net/gh/91bg0001/ut@e1aacf31e25498fd102464178a16e8858777b9ee/47/hls/9022868fdb8347b7ba9641e4482c5bf8/media-1/segment-2.ts.png
+#EXTINF:12.012000,
+https://cdn.jsdelivr.net/gh/91bg0001/ut@e1aacf31e25498fd102464178a16e8858777b9ee/47/hls/9022868fdb8347b7ba9641e4482c5bf8/media-1/segment-3.ts.png
+#EXT-X-ENDLIST
